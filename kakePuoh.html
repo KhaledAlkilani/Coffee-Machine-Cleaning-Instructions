@@ -1,0 +1,252 @@
+<!-- <?php
+if(isset($_POST['submit'])){
+    $etuNimi = $_POST['penimi'];
+    $sukuNimi = $_POST['psnimi'];
+    $pNumero = $_POST['pphonenumber'];
+    $email = $_POST['pemail'];
+    $palBox = $_POST['ppalbox'];
+    echo $etuNimi . ' ' . $sukuNimi . ' ' . $pNumero . ' ' . $email . ' ' . $palBox;
+}
+?> -->
+
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta http-equiv='content-type' content='text/html; charset=utf-8'/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="kakePuoh.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&family=Roboto:ital,wght@1,300;1,400&display=swap" rel="stylesheet">
+
+    <title>Kahvikeittimen Puhdistusohjelma</title>
+</head>
+
+<body>
+
+<nav>
+
+    <div class="container">
+        <input hidden type="text" id="munTeksti" value="">
+
+        <input hidden type="text" id="munPaiva" value="">
+
+        <div class="img-logo";>
+            <img src="kuvat/esedu logo.jpg"  alt="logo">
+        </div>
+        <div class="otsikko1">Kahvikeittimen Puhdistusohjelma</div>
+        
+        <div class="otsikko">
+            <span style="--i:1;">K</span>
+            <span style="--i:2;">A</span>
+            <span style="--i:3;">H</span>
+            <span style="--i:4;">V</span>
+            <span style="--i:5;">I</span>
+            <span style="--i:6;">K</span>
+            <span style="--i:7;">E</span>
+            <span style="--i:8;">I</span>
+            <span style="--i:9;">T</span>
+            <span style="--i:10;">T</span>
+            <span style="--i:11;">I</span>
+            <span style="--i:12;">M</span>
+            <span style="--i:13;">E</span>
+            <span style="--i:14;">N &nbsp</span>
+            <span style="--i:15;">P</span>
+            <span style="--i:16;">U</span>
+            <span style="--i:17;">H</span>
+            <span style="--i:18;">D</span>
+            <span style="--i:19;">I</span>
+            <span style="--i:20;">S</span>
+            <span style="--i:21;">T</span>
+            <span style="--i:22;">U</span>
+            <span style="--i:23;">S</span>
+            <span style="--i:24;">O</span>
+            <span style="--i:25;">H</span>
+            <span style="--i:26;">j</span>
+            <span style="--i:27;">E</span>
+            <span style="--i:28;">L</span>
+            <span style="--i:29;">M</span>
+            <span style="--i:30;">A</span>
+        </div>
+        
+        <div id="datetimeid" class="datetime">
+        </div>
+
+        <div class="sidenav-con">
+            <span>
+                <a href="#" onclick="avaSideNav()">
+                    <svg width="30" height="30">
+                   <path d="M0, 5 30,5" stroke="rgba(139, 184, 52, 0.92)" stroke-width="5"/>
+                     <path d="M0, 14 30,14" stroke="rgba(139, 184, 52, 0.92)" stroke-width="5"/>
+                     <path d="M0, 23 30,23" stroke="rgba(139, 184, 52, 0.92)" stroke-width="5"/>
+                    </svg>
+                </a>
+
+            </span>
+            
+        </div>
+
+        <div class="nav-content">
+            <a href="#" class="btn-close" onclick="suljeSideNav()">&times;</a>
+            <a id="kieliotsikko" href="#">Kieli</a>
+            <li class="skieli" onclick="setLang('fi'); setPaiva('fin')" style="cursor: pointer;">Suomi</li>
+            <li class="ekieli" onclick="setLang('en'); setPaiva('eng')" style="cursor: pointer;">English</li>
+            <li class="rkieli" onclick="setLang('sw'); setPaiva('swe')" style="cursor: pointer;">Svenska</li>
+            <li class="vkieli" onclick="setLang('ru'); setPaiva('rus')" style="cursor: pointer;">Pусский</li>
+            <li class="akieli" onclick="setLang('ar'); setPaiva('ara')" style="cursor: pointer;">العربية</li>
+            <li class="pkieli" onclick="setLang('pe'); setPaiva('per')" style="cursor: pointer;">فارسى</li>
+
+            <a class="palaute-btn" href="#">Palaute</a>
+            <a class="yhteys-btn" href="#">Ota Yhteyttä</a>
+        </div>
+    </div>
+</nav>
+
+<main>
+    
+    <div class="boxcontainer">
+        <div id="contentboxid" class="contentbox active">
+            <h3 class="alku-hei">Hei,</h3>
+            <p class="terve-teksti">Tervetuloa kahvinkeittimen puhdistus ohjelman ohjeeseen. Tästä monikielisestä ohjelmasta opit miten käytät ohjelmaa kahvinkeittimen puhdistusta varten vaihe vaiheelta. Ole hyvä ja paina Aloita.</p>
+            <button class="btn">Aloita</button>
+        </div>
+
+        <div class="ohj_laatikko">
+            <header>
+                <h3 class="kaytto-ohjeet">Käyttöohjeet</h3>
+                <h3 class="ohj_yhteensa">1/12</h3>
+            </header>
+
+            <section class="ohjK">
+                <div class="ohj_teksti">
+                </div>
+            </section>
+            <div class="modal" id="modalblur">
+                <img src="Avakuvat/1.jpg" alt="" class="ava-kuva" />
+            </div>
+            <footer>
+                <div class="edse-btns">
+                    <button id="ede_btn">Edellinen</button>
+                    <button id="seu_btn">Seuraava</button>
+                </div>
+                <div class="su-btn">
+                    <button id="sulje_btn">Sulje</button>
+                </div>
+            </footer>
+        </div>
+
+        <form name="palauteForm" class="palaute-lom">
+            <div class="plotsikko">
+                <h4 class="pal-ots">Palautelomake</h4>
+                <p class="pal-lause">Sinun palautteesi auttaa meitä kehittämään palvelumme</p>
+            </div>
+
+            <div class="enimi-osa">
+                <input class="enimiinput" type="text" name="penimi" autocomplete="off" required/>
+                <label for="nimi" class="label-nimi">
+                    <span class="content-nimi">Etunimi</span>
+                </label>
+            </div>
+
+            <div class="snimi-osa">
+                <input class="snimiinput" type="text" name="psnimi" autocomplete="off" required/>
+                <label for="nimi" class="label-nimi">
+                    <span id="pal-suku" class="content-nimi">Sukunimi</span>
+                </label>
+            </div>
+            <div class="puh-osa">
+                <input class="pninput" type="text" name="pphonenumber" autocomplete="off" required/>
+                <label for="number" class="label-puhnum">
+                    <span class="content-numero">Puhelin Numero</span>
+                </label>
+            </div>
+            <div class="email-osa">
+                <input class="eminput" type="email" name="pemail" autocomplete="off" required/>
+                <label for="email" class="label-email">
+                    <span class="content-email">Sähköposti</span>
+                </label>
+            </div>
+            <div class="palaute-osa">
+                <textarea name="ppalbox" class="pal-place palinput"></textarea>
+            </div>
+            <div class="palaute-btns">
+                <button type="submit" name="submit" class="laheta-palaute">Lähetä</button>
+                <button class="sulje-palaute">Sulje</button>
+            </div>
+            <div class="kiitos-pal">
+                <p></p>
+            </div>
+</form>
+
+        <form class="yhteys-lom">
+            <div class="yhotsikko">
+                <h4 class="yht-ots">Yhteyslomake</h4>
+                <p class="yht-lause">Ota yhteyttä meidän kanssa</p>
+            </div>
+
+            <div class="enimi-osa">
+                <input class="yenimi" type="text" name="enimi" autocomplete="off" required/>
+                <label for="nimi" class="label-nimi">
+                    <span id="oty-etu" class="content-nimi">Etunimi</span>
+                </label>
+            </div>
+
+            <div class="snimi-osa">
+                <input class="ysnimi" type="text" name="snimi" autocomplete="off" required/>
+                <label for="nimi" class="label-nimi">
+                    <span id="oty-suku" class="content-nimi">Sukunimi</span>
+                </label>
+            </div>
+            <div class="puh-osa">
+                <input class="ypnumero" type="text" name="phonenumber" autocomplete="off" required/>
+                <label for="number" class="label-puhnum">
+                    <span id="oty-puh" class="content-numero">Puhelin Numero</span>
+                </label>
+            </div>
+            <div class="email-osa">
+                <input class="yemail" type="email" name="email" autocomplete="off" required/>
+                <label for="email" class="label-email">
+                    <span id="oty-ema" class="content-email">Sähköposti</span>
+                </label>
+            </div>
+            <div class="aihe-osa">
+                <input class="yaihe" type="text" name="aihe" autocomplete="off" required/>
+                <label for="subject" class="label-aihe">
+                    <span id="oty-aih" class="content-aihe">Aihe</span>
+                </label>
+            </div>
+            <div class="viesti-osa">
+                <textarea class="yviesti"></textarea>
+            </div>
+            <div class="yhteytta-btns">
+                <button class="laheta-viesti">Lähetä</button>
+                <button class="sulje-viesti">Sulje</button>
+            </div>
+            <div class="kiitos-vie">
+                <!-- <p>Kiitos viestistäsi!</p> -->
+            </div>
+        </form>
+
+</main>
+
+
+<script src="javascript/kakePuoh.js"></script>
+<script src="javascript/pvmAika.js"></script>
+<script src="translation-jsJson/finnish/finnish.js"></script>
+<script src="translation-jsJson/english/english.js"></script>
+<script src="translation-jsJson/swedish/swedish.js"></script>
+<script src="translation-jsJson/russian/russian.js"></script>
+<script src="translation-jsJson/arabic/arabic.js"></script>
+<script src="translation-jsJson/persian/persian.js"></script>
+<script src="javascript/kuvatJaohjeet.js"></script>
+<script src="javascript/lomakkeet.js"></script>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/three.js/r75/three.min.js'></script>
+<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/bas.js'></script>
+<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/TextGeometry.js'></script>
+<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/FontUtils.js'></script>
+<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/pnltri.min.js'></script>
+<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/droid_sans_bold.typeface.js'></script>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js'></script>
+</body>
+</html>
+

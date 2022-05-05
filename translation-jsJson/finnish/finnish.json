@@ -1,0 +1,195 @@
+[
+    {
+        "navotsikko": [
+            { 
+                "finnish": "Kahvinkeittimen Puhdistus Ohjelma"
+            }
+        ],
+        
+        
+        "navpvm": [
+            {
+                "finnish": ["Maanantai", "Tiistai", "Keskiviikko", "Torstai", "Perjantai", "Lauantai", "Sunnuntai"]
+            }
+        ],
+
+        "navsidebar": [
+            {
+                "finnish": "Kieli"
+            }
+        ],
+
+        "kielits": [
+            {
+                "finnish": "Suomi",
+                "english": "English",
+                "swedish": "Svenska",
+                "russian": "Pусский",
+                "arabia": "العربية",
+                "persia": "فارسى"
+            }
+        ],
+
+        "pallom": [
+            {
+                "finnish": "Palaute"
+            }
+        ],
+
+        "pallomsubots": [
+            {
+                "finnish": "Sinun palautteesi auttaa meitä kehittämään palvelumme"
+            }
+        ],
+
+        "pallomkoh1": [
+            {
+                "finnish": "Etunimi"
+            }
+        ],
+
+        "pallomkoh2": [
+            {
+                "finnish": "Sukunimi"
+            }
+        ],
+
+        "pallomkoh3": [
+            {
+                "finnish": "Puhelin Numero"
+            }
+        ],
+
+        "pallomkoh4": [
+            {
+                "finnish": "Sähköposti"
+            }
+        ],
+
+        "pallomkoh5": [
+            {
+                "finnish": "Palaute"
+            }
+        ],
+
+        "pallombtn1": [
+            {
+                "finnish": "Lähetä"
+            }
+        ],
+
+        "pallombtn2": [
+            {
+                "finnish": "Sulje"
+            }
+        ],
+
+        "pallomvah": [
+            {
+                "finnish": "Kiitos palautteestasi!"
+            }
+        ],
+
+        "otayhlom": [
+            {
+                "finnish": "Ota Yhteyttä"
+            }
+        ],
+
+        "otayhlomsubots": [
+            {
+                "finnish": "Ota yhteyttä meidän kanssa"
+            }
+        ],
+
+        "otayhlomkoh1": [
+            {
+                "finnish": "Etunimi"
+            }
+        ],
+
+        "otayhlomkoh2": [
+            {
+                "finnish": "Sukunimi"
+            }
+        ],
+
+        "otayhlomkoh3": [
+            {
+                "finnish": "Puhelin Numero"
+            }
+        ],
+
+        "otayhlomkoh4": [
+            {
+                "finnish": "Sähköposti"
+            }
+        ],
+
+        "otayhlomkoh5": [
+            {
+                "finnish": "Aihe"
+            }
+        ],
+
+        "otayhlombtn1": [
+            {
+                "finnish": "Lähetä"
+            }
+        ],
+
+        "otayhlombtn2": [
+            {
+                "finnish": "Sulje"
+            }
+        ],
+
+        "otayhlomvah": [
+            {
+                "finnish": "Kiitos viestistäsi!"
+            }
+        ],
+
+        "hei": [
+            {
+                "finnish": "Hei,"
+            }
+        ],
+
+        "tervetuloa": [
+            {
+                "finnish": "Tervetuloa kahvinkeittimen puhdistus ohjelman ohjeeseen. Tästä ohjelmasta opit miten käytät ohjelmaa kahvinkeittimen puhdistusta varten vaihe vaiheelta. Ole hyvä ja paina Aloita."
+            }
+        ],
+
+        "aloitabutton": [
+            {
+                "finnish": "Aloita"
+            }
+        ],
+
+        "kayttoohjeet": [
+            {
+                "finnish": "Käyttöohjeet"
+            }
+        ],
+
+        "edebtn": [
+            {
+                "finnish": "Edellinen"
+            }
+        ],
+
+        "seubtn": [
+            {
+                "finnish": "Seuraava"
+            }
+        ],
+
+        "sulbtn": [
+            {
+                "finnish": "Sulje"
+            }
+        ]
+    }
+]

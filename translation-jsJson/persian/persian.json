@@ -1,0 +1,195 @@
+[
+    {
+        "navotsikko": [
+            { 
+                "persia": "برنامه تمیز کردن قهوه ساز"
+            }
+        ],
+        
+        
+        "navpvm": [
+            {
+                "persia": ["دوشنبه", "سهشنبه", "چهار شنبه", "پنج شنبه", "جمعه", "شنبه", "یکشنبه"]
+            }
+        ],
+
+        "navsidebar": [
+            {
+                "persia": "زبان"
+            }
+        ],
+
+        "kielitp": [
+            {
+                "finnish": "Suomi",
+                "english": "English",
+                "swedish": "Svenska",
+                "russian": "Pусский",
+                "arabia": "العربية",
+                "persia": "فارسى"
+            }
+        ],
+
+        "pallom": [
+            {
+                "persia": "بازخورد"
+            }
+        ],
+
+        "pallomsubots": [
+            {
+                "persia": "نظرات شما به بهبود خدمات ما کمک می‌کند"
+            }
+        ],
+
+        "pallomkoh1": [
+            {
+                "persia": "نام"
+            }
+        ],
+
+        "pallomkoh2": [
+            {
+                "persia": "نام خانوادگی"
+            }
+        ],
+
+        "pallomkoh3": [
+            {
+                "persia": "شماره تلفن"
+            }
+        ],
+
+        "pallomkoh4": [
+            {
+                "persia": "ايميل"
+            }
+        ],
+
+        "pallomkoh5": [
+            {
+                "persia": "بازخورد"
+            }
+        ],
+
+        "pallombtn1": [
+            {
+                "persia": "ارسال"
+            }
+        ],
+
+        "pallombtn2": [
+            {
+                "persia": "بستن"
+            }
+        ],
+
+        "pallomvah": [
+            {
+                "persia": "از بازخورد شما متشکرم"
+            }
+        ],
+
+        "otayhlom": [
+            {
+                "persia": "تماس بگیرید"
+            }
+        ],
+
+        "otayhlomsubots": [
+            {
+                "persia": "با ما تماس بگیرید"
+            }
+        ],
+
+        "otayhlomkoh1": [
+            {
+                "persia": "نام"
+            }
+        ],
+
+        "otayhlomkoh2": [
+            {
+                "persia": "نام خانوادگی"
+            }
+        ],
+
+        "otayhlomkoh3": [
+            {
+                "persia": "شماره تلفن"
+            }
+        ],
+
+        "otayhlomkoh4": [
+            {
+                "persia": "ایمیل"
+            }
+        ],
+
+        "otayhlomkoh5": [
+            {
+                "persia": "موضوع"
+            }
+        ],
+
+        "otayhlombtn1": [
+            {
+                "persia": "ارسال"
+            }
+        ],
+
+        "otayhlombtn2": [
+            {
+                "persia": "بستن"
+            }
+        ],
+
+        "otayhlomvah": [
+            {
+                "persia": "ممنون از پیغام شما"
+            }
+        ],
+
+        "hei": [
+            {
+                "persia": "،سلام"
+            }
+        ],
+
+        "tervetuloa": [
+            {
+                "persia": "به دستورالعمل برنامه تمیز کردن قهوه ساز خوش آمدید. در این برنامه نحوه استفاده از طرز تمیز کردن قهوه ساز خود را به صورت مرحله به مرحله یاد خواهید گرفت. لطفا دکمه شروع را فشار دهید."
+            }
+        ],
+
+        "aloitabutton": [
+            {
+                "persia": "شروع"
+            }
+        ],
+
+        "kayttoohjeet": [
+            {
+                "persia": "دستورالعمل ها"
+            }
+        ],
+
+        "edebtn": [
+            {
+                "persia": "قبلی"
+            }
+        ],
+
+        "seubtn": [
+            {
+                "persia": "بعدی"
+            }
+        ],
+
+        "sulbtn": [
+            {
+                "persia": "بستن"
+            }
+        ]
+    }
+]

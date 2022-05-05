@@ -1,0 +1,195 @@
+[
+    {
+        "navotsikko": [
+            { 
+                "swedish": "Rengöringsprogram för kaffebryggare"
+            }
+        ],
+        
+        
+        "navpvm": [
+            {
+                "swedish": ["Måndag", "Tisdag", "Onsdag", "Torsdag", "Fredag", "Lördag", "Söndag"]
+            }
+        ],
+
+        "navsidebar": [
+            {
+                "swedish": "Språk"
+            }
+        ],
+
+        "kielitr": [
+            {
+                "finnish": "Suomi",
+                "english": "English",
+                "swedish": "Svenska",
+                "russian": "Pусский",
+                "arabia": "العربية",
+                "persia": "فارسى"
+            }
+        ],
+
+        "pallom": [
+            {
+                "swedish": "Återkopplings"
+            }
+        ],
+
+        "pallomsubots": [
+            {
+                "swedish": "Din feedback hjälper oss att utveckla vår tjänst"
+            }
+        ],
+
+        "pallomkoh1": [
+            {
+                "swedish": "Förnamn"
+            }
+        ],
+
+        "pallomkoh2": [
+            {
+                "swedish": "Efternamn"
+            }
+        ],
+
+        "pallomkoh3": [
+            {
+                "swedish": "Telefonnummer"
+            }
+        ],
+
+        "pallomkoh4": [
+            {
+                "swedish": "E-Post"
+            }
+        ],
+
+        "pallomkoh5": [
+            {
+                "swedish": "Respons"
+            }
+        ],
+
+        "pallombtn1": [
+            {
+                "swedish": "Skicka"
+            }
+        ],
+
+        "pallombtn2": [
+            {
+                "swedish": "Stänga"
+            }
+        ],
+
+        "pallomvah": [
+            {
+                "swedish": "Tack för din feedback!"
+            }
+        ],
+
+        "otayhlom": [
+            {
+                "swedish": "Kontakta oss"
+            }
+        ],
+
+        "otayhlomsubots": [
+            {
+                "swedish": "Ta kontakt med oss"
+            }
+        ],
+
+        "otayhlomkoh1": [
+            {
+                "swedish": "Förnamn"
+            }
+        ],
+
+        "otayhlomkoh2": [
+            {
+                "swedish": "Efternamn"
+            }
+        ],
+
+        "otayhlomkoh3": [
+            {
+                "swedish": "Telefonnummer"
+            }
+        ],
+
+        "otayhlomkoh4": [
+            {
+                "swedish": "E-Post"
+            }
+        ],
+
+        "otayhlomkoh5": [
+            {
+                "swedish": "Ämne"
+            }
+        ],
+
+        "otayhlombtn1": [
+            {
+                "swedish": "Skicka"
+            }
+        ],
+
+        "otayhlombtn2": [
+            {
+                "swedish": "Stänga"
+            }
+        ],
+
+        "otayhlomvah": [
+            {
+                "swedish": "Tack för att du kontaktar oss"
+            }
+        ],
+
+        "hei": [
+            {
+                "swedish": "Hej,"
+            }
+        ],
+
+        "tervetuloa": [
+            {
+                "swedish": "Välkommen till instruktionerna för kaffemaskinens rengöringsprogram. Från detta program lär du dig hur du använder programmet för att rengöra din kaffemaskin steg för steg. Klicka på Start."
+            }
+        ],
+
+        "aloitabutton": [
+            {
+                "swedish": "Sätt igång"
+            }
+        ],
+
+        "kayttoohjeet": [
+            {
+                "swedish": "Instruktioner"
+            }
+        ],
+
+        "edebtn": [
+            {
+                "swedish": "Tidigare"
+            }
+        ],
+
+        "seubtn": [
+            {
+                "swedish": "Nästa"
+            }
+        ],
+
+        "sulbtn": [
+            {
+                "swedish": "Stänga"
+            }
+        ]
+    }
+]

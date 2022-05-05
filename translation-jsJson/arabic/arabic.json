@@ -1,0 +1,224 @@
+[
+    {
+        "navotsikko": [
+            { 
+      
+                "arabia": "برنامج تعليمات تنظيف آلة صنع القهوة"
+            }
+        ],
+        
+        
+        "navpvm": [
+            {
+
+                "arabia": ["الإثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت", "الأحد"]
+            }
+        ],
+
+        "navsidebar": [
+            {
+          
+                "arabia": "اللغة"
+            }
+        ],
+
+        "kielita": [
+            {
+                "finnish": "Suomi",
+                "english": "English",
+                "swedish": "Svenska",
+                "russian": "Pусский",
+                "arabia": "العربية",
+                "persia": "فارسى"
+            }
+        ],
+
+        "pallom": [
+            {
+    
+                "arabia": "الملاحظات"
+            }
+        ],
+
+        "pallomsubots": [
+            {
+
+                "arabia": "ستساعدنا ملاحظاتكم على تطوير خدمتنا"
+            }
+        ],
+
+        "pallomkoh1": [
+            {
+     
+                "arabia": "الإسم الأول"
+            }
+        ],
+
+        "pallomkoh2": [
+            {
+   
+                "arabia": "اسم العائلة"
+            }
+        ],
+
+        "pallomkoh3": [
+            {
+
+                "arabia": "رقم الهاتف"
+            }
+        ],
+
+        "pallomkoh4": [
+            {
+       
+                "arabia": "البريد الالكتروني"
+            }
+        ],
+
+        "pallomkoh5": [
+            {
+
+                "arabia": "التقييم"
+            }
+        ],
+
+        "pallombtn1": [
+            {
+         
+                "arabia": "إرسال"
+            }
+        ],
+
+        "pallombtn2": [
+            {
+
+                "arabia": "إغلاق"
+            }
+        ],
+
+        "pallomvah": [
+            {
+
+                "arabia": "شكرا لك على ملاحظاتك!"
+            }
+        ],
+
+        "otayhlom": [
+            {
+   
+                "arabia": "اتصل بنا"
+            }
+        ],
+
+        "otayhlomsubots": [
+            {
+
+                "arabia": "تواصل معنا"
+            }
+        ],
+
+        "otayhlomkoh1": [
+            {
+  
+                "arabia": "الإسم الأول"
+            }
+        ],
+
+        "otayhlomkoh2": [
+            {
+
+                "arabia": "اسم العائلة"
+            }
+        ],
+
+        "otayhlomkoh3": [
+            {
+
+                "arabia": "رقم الهاتف"
+            }
+        ],
+
+        "otayhlomkoh4": [
+            {
+    
+                "arabia": "البريد الالكتروني"
+            }
+        ],
+
+        "otayhlomkoh5": [
+            {
+
+                "arabia": "الموضوع"
+            }
+        ],
+
+        "otayhlombtn1": [
+            {
+
+                "arabia": "إرسال"
+            }
+        ],
+
+        "otayhlombtn2": [
+            {
+
+                "arabia": "إغلاق"
+            }
+        ],
+
+        "otayhlomvah": [
+            {
+
+                "arabia": "شكرا لتواصلكم معنا"
+            }
+        ],
+
+        "hei": [
+            {
+  
+                "arabia": "،مرحباً"
+            }
+        ],
+
+        "tervetuloa": [
+            {
+
+                "arabia": "مرحبًا بك في برنامج التعليمات الخاص بتنظيف آلة صنع القهوة. من خلال هذا البرنامج سوف تتعلم كيفية تنظيف آلة صنع القهوة خطوة بخطوة. الرجاء النقر على زر ابدأ."
+            }
+        ],
+
+        "aloitabutton": [
+            {
+
+                "arabia": "ابدأ"
+            }
+        ],
+
+        "kayttoohjeet": [
+            {
+
+                "arabia": "التعليمات"
+            }
+        ],
+
+        "edebtn": [
+            {
+
+                "arabia": "السابق"
+            }
+        ],
+
+        "seubtn": [
+            {
+
+                "arabia": "التالي"
+            }
+        ],
+
+        "sulbtn": [
+            {
+                "arabia": "إغلاق"
+            }
+        ]
+    }
+]

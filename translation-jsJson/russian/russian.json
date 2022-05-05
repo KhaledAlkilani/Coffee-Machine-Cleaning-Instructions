@@ -1,0 +1,198 @@
+[
+    {
+        "navotsikko": [
+            { 
+                "russian": "Программа очистки кофеварки"
+            }
+        ],
+        
+        
+        "navpvm": [
+            {
+                "russian": ["Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье"]
+            }
+        ],
+
+        "navsidebar": [
+            {
+                "russian": "Язык"
+            }
+        ],
+
+
+        "kielitv": [
+            {
+                "finnish": "Suomi",
+                "english": "English",
+                "swedish": "Svenska",
+                "russian": "Pусский",
+                "arabia": "العربية",
+                "persia": "فارسى"
+            }
+        ],
+
+        "pallom": [
+            {
+                "russian": "Форма обратной"
+            }
+        ],
+
+        "pallomsubots": [
+            {
+                "russian": "Ваш отзыв поможет нам развивать наш сервис"
+            }
+        ],
+
+        "pallomkoh1": [
+            {
+                "russian": "Имя"
+            }
+        ],
+
+        "pallomkoh2": [
+            {
+                "russian": "Фамилия"
+            }
+        ],
+
+        "pallomkoh3": [
+            {
+                "russian": "Номер телефона"
+            }
+        ],
+
+        "pallomkoh4": [
+            {
+                "russian": "Электронное письмо"
+            }
+        ],
+
+        "pallomkoh5": [
+            {
+                "russian": "Обратная связь"
+            }
+        ],
+
+        "pallombtn1": [
+            {
+                "russian": "Отправлять"
+            }
+        ],
+
+        "pallombtn2": [
+            {
+                "russian": "Закрывать"
+            }
+        ],
+
+        "pallomvah": [
+            {
+                "russian": "Спасибо за ваш отзыв!"
+            }
+        ],
+
+        "otayhlom": [
+            {
+                "russian": "Связаться с нами"
+            }
+        ],
+
+        "otayhlomsubots": [
+            {
+                "russian": "связаться с нами"
+            }
+        ],
+
+        "otayhlomkoh1": [
+            {
+                "russian": "Имя"
+            }
+        ],
+
+        "otayhlomkoh2": [
+            {
+
+                "russian": "Фамилия"
+            }
+        ],
+
+        "otayhlomkoh3": [
+            {
+                "russian": "Номер телефона"
+            }
+        ],
+
+        "otayhlomkoh4": [
+            {
+                "russian": "Электронное письмо"
+            }
+        ],
+
+        "otayhlomkoh5": [
+            {
+                "russian": "Предмет"
+            }
+        ],
+
+        "otayhlombtn1": [
+            {
+  
+                "russian": "Отправлять"
+            }
+        ],
+
+        "otayhlombtn2": [
+            {
+                "russian": "Закрывать"
+            }
+        ],
+
+        "otayhlomvah": [
+            {
+                "russian": "Благодарим Вас за обращение к нам"
+            }
+        ],
+
+        "hei": [
+            {
+                "russian": "Привет,"
+            }
+        ],
+
+        "tervetuloa": [
+            {
+                "russian": "Добро пожаловать в инструкцию по программе очистки кофемашины. Из этой программы вы узнаете, как шаг за шагом пользоваться программой для очистки кофемашины. Пожалуйста, нажмите Пуск."
+            }
+        ],
+
+        "aloitabutton": [
+            {
+                "russian": "Начинать"
+            }
+        ],
+
+        "kayttoohjeet": [
+            {
+                "russian": "инструкции"
+            }
+        ],
+
+        "edebtn": [
+            {
+                "russian": "Предыдущий"
+            }
+        ],
+
+        "seubtn": [
+            {
+                "russian": "Следующий"
+            }
+        ],
+
+        "sulbtn": [
+            {
+                "russian": "Закрывать"
+            }
+        ]
+    }
+]

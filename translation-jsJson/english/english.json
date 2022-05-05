@@ -1,0 +1,210 @@
+[
+    {
+        "navotsikko": [
+            { 
+                "english": "Coffee Maker Cleaning Program"
+            }
+        ],
+        
+        
+        "navpvm": [
+            {
+                
+                "english": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+
+            }
+        ],
+
+        "navsidebar": [
+            {
+
+                "english": "Language"
+                
+            }
+        ],
+
+        "kielite": [
+            {
+                "finnish": "Suomi",
+                "english": "English",
+                "swedish": "Svenska",
+                "russian": "Pусский",
+                "arabia": "العربية",
+                "persia": "فارسى"
+
+            }
+        ],
+
+        "pallom": [
+            {
+
+                "english": "Feedback"
+            }
+        ],
+
+        "pallomsubots": [
+            {
+
+                "english": "Your feedback will help us to improve our service"
+            }
+        ],
+
+        "pallomkoh1": [
+            {
+
+                "english": "First Name"
+            }
+        ],
+
+        "pallomkoh2": [
+            {
+
+                "english": "Surname"
+            }
+        ],
+
+        "pallomkoh3": [
+            {
+   
+                "english": "Phone Number"
+            }
+        ],
+
+        "pallomkoh4": [
+            {
+                "english": "Email"
+            }
+        ],
+
+        "pallomkoh5": [
+            {
+                "english": "Feedback"
+            }
+        ],
+
+        "pallombtn1": [
+            {
+                "english": "Send"
+            }
+        ],
+
+        "pallombtn2": [
+            {
+                "english": "Close"
+            }
+        ],
+
+        "pallomvah": [
+            {
+                "english": "Thank you for your feedback"
+            }
+        ],
+
+        "otayhlom": [
+            {
+                "english": "Contact us"
+            }
+        ],
+
+        "otayhlomsubots": [
+            {
+                "english": "Connect with us"
+            }
+        ],
+
+        "otayhlomkoh1": [
+            {
+
+                "english": "First Name"
+            }
+        ],
+
+        "otayhlomkoh2": [
+            {
+                "english": "Surname"
+            }
+        ],
+
+        "otayhlomkoh3": [
+            {
+
+                "english": "Phone Number"
+            }
+        ],
+
+        "otayhlomkoh4": [
+            {
+
+                "english": "Email"
+            }
+        ],
+
+        "otayhlomkoh5": [
+            {
+                "english": "Subject"
+            }
+        ],
+
+        "otayhlombtn1": [
+            {
+
+                "english": "Send"
+            }
+        ],
+
+        "otayhlombtn2": [
+            {
+                "english": "Close"
+            }
+        ],
+
+        "otayhlomvah": [
+            {
+                "english": "Thank you for contacting us"
+            }
+        ],
+
+        "hei": [
+            {
+                "english": "Hi,"
+            }
+        ],
+
+        "tervetuloa": [
+            {
+                "english": "Welcome to the instructions for use program for the coffee machine cleaning. By this program you will learn how to clean your coffee machine step by step. Please click Start."
+            }
+        ],
+
+        "aloitabutton": [
+            {
+    
+                "english": "Start"
+            }
+        ],
+
+        "kayttoohjeet": [
+            {
+                "english": "Usage Instructions"
+            }
+        ],
+
+        "edebtn": [
+            {
+                "english": "Previous"
+            }
+        ],
+
+        "seubtn": [
+            {
+                "english": "Next"
+            }
+        ],
+
+        "sulbtn": [
+            {
+                "english": "Close"
+            }
+        ]
+    }
+]
